@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    font-family: 'PT Sans', 'sans-serif';
+    font-size: 1.5em;
+    display: flex;
+    background-color: rgb(243, 193, 66);
+}
+.nav-item{
+
+    padding: 20px;
+    color: white;
+}
+.nav-item:hover{
+
+    cursor: pointer;
+}
+.content-body{
+
+    border-radius: 4px;
+    margin: 25px 0;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.section-title{
+
+    color: blue;
+    font-size: 1.25em;
+}
+
+.section-text{
+
+    margin: 10px 0;
+}
+.menu-items {
+
+    list-style: none;
+}
+
+.menu-items > li{
+
+    margin: 10px;
+}

@@ -1,0 +1,1 @@
+(self.webpackChunkodin_restaurant=self.webpackChunkodin_restaurant||[]).push([[637],{637:()=>{alert("Contact")}}]);
