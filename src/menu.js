@@ -17,5 +17,4 @@ export default function(){
         'title': title,
         'text': menuItems
     }
-
 }

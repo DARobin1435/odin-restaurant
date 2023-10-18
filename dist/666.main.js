@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkodin_restaurant=self.webpackChunkodin_restaurant||[]).push([[666],{666:(e,n,t)=>{function a(){const e=document.createElement("h1"),n=document.createElement("p");return e.innerText="Grandma's Deli: Lasagna Wednesdays",n.innerText="The best place for lasagna on Wednesdays",{title:e,text:n}}t.r(n),t.d(n,{default:()=>a})}}]);

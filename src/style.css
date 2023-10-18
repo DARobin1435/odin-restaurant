@@ -48,3 +48,17 @@
 
     margin: 10px;
 }
+
+form{
+
+}
+
+form>*{
+    display: block;
+    margin: 10px;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}

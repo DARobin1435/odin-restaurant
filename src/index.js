@@ -3,7 +3,7 @@
 import makeHome from './home.js';
 import makeMenu from './menu.js';
 import makeContact from './contact.js';
-// import lasagnaImg from './lasagna.jpg';
+import lasagnaImg from './lasagna.jpg';
 
 import './style.css';
 
@@ -32,9 +32,9 @@ function renderPage(obj,pageName="Home"){
 
         addToPage({'title': titleError, 'text':textError});
     }
-    // const mainImage = new Image();
-    // mainImage.src = lasagnaImg;
-    // contentBody.appendChild(mainImage);
+    const mainImage = new Image();
+    mainImage.src = lasagnaImg;
+    contentBody.appendChild(mainImage);
 }
 
 // Remove the contents of the content body, but preserve menus
